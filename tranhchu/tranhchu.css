@@ -1,0 +1,47 @@
+.menu{
+    background-color: black;
+}
+.menu>center>a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 50px;
+    padding: 0px 35px;
+}
+.menu>img{
+    padding: 10px;
+    max-width: 75%;
+    height: 350px;
+    padding-left: 150px;
+}
+.gtsanpham{
+    text-align: center;
+    background-color: aqua; 
+}
+.sanphamnoibat{
+    width: 25%;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+}
+.sanphamnoibat>.sanpham{
+    font-variant: small-caps;
+    color: orangered;
+}
+.sanphamnoibat>img{
+    
+    max-width: 100%;
+    height: 350px;
+    margin-bottom: 30px;
+}
+.sanphamnoibat>.giatien{
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    font-family: Impact;
+    font-size: 25px;
+    color: red;
+}

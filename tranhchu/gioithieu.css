@@ -1,0 +1,18 @@
+.menu{
+    background-color: black;
+}
+.menu>center>a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 50px;
+    padding: 0px 35px;
+}
+.menu>img{
+    padding: 10px;
+    max-width: 75%;
+    height: 350px;
+    padding-left: 150px;
+}
+p{
+   font-size: 18px;
+}
